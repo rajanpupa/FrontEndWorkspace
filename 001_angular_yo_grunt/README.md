@@ -15,7 +15,9 @@ Running `grunt test` will run the unit tests with karma.
 
 ```
 npm install -g yo grunt-cli bower
+
 npm install -g generator-angular
+
 npm install -g generator-karma
 
 yo angular 
@@ -43,5 +45,7 @@ npm install grunt-karma karma karma-phantomjs-launcher karma-jasmine jasmine-cor
 
 ## References
 [Google Doc] (https://docs.google.com/document/d/1dHL3-O0jtMMBHtTYAB-3WWcDwNzCZwGoQUKkB_-W-Ek/edit)
+
 [Tutorial1]  (https://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/)
+
 [Angular-ui] (https://angular-ui.github.io/bootstrap/)
