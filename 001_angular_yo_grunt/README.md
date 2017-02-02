@@ -3,6 +3,8 @@
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.15.1.
 
+This project just has the front end technologies only(ie no nodejs or any serverside scripts)
+
 ## Build & development
 
 Run `grunt` for building and `grunt serve` for preview.
