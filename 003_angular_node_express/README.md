@@ -10,9 +10,20 @@
 * `yo angular` is used to generate the client project
 * `express generator` is used for server.
 * only the server folder needs to be deployed
-* 
 
+### System Requirements
 
+Before running the client and server, make sure you do the following
+
+* In the server folder `npm install`
+* In the client folder, before `grunt serve` or `grunt --force`, do the following
+```
+npm install
+bower install
+
+// also make sure ruby gem - compass is installed
+gem install compass
+```
 
 ### References
 
