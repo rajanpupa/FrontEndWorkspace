@@ -27,7 +27,9 @@ gem install compass
 
 ### References
 
-[http://start.jcolemorrison.com/building-an-angular-and-express-app-part-1/](Part 1)
-[http://start.jcolemorrison.com/building-an-angular-and-express-app-part-2/](Part 2)
-[http://start.jcolemorrison.com/building-an-angular-and-express-app-part-3/](Part 3)
+[Part 1](http://start.jcolemorrison.com/building-an-angular-and-express-app-part-1/)
+
+[Part 2](http://start.jcolemorrison.com/building-an-angular-and-express-app-part-2/)
+
+[Part 3](http://start.jcolemorrison.com/building-an-angular-and-express-app-part-3/)
 
