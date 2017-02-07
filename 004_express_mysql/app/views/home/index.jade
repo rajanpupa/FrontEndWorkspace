@@ -1,0 +1,23 @@
+extends ../layout
+
+block content
+  div.main
+    h1 Welcome to #{title}
+    p I'm using generator-express MVC! Humm
+    div
+      table(border="1px solid black")
+        thead
+          tr: th id
+              th title
+              th url
+              th text
+        tbody
+          each article in articles
+            tr
+              td #{article.id}
+              td #{article.title}
+              td #{article.url}
+              td #{article.text}
+    
+
+
