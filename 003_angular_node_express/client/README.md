@@ -17,7 +17,14 @@ Running `grunt test` will run the unit tests with karma.
 `gem install compass`
 
 * Before `grunt serve` install the dependencies
+
 ```
 npm install
 bower install
 ```
+
+* Generate a new route
+`yo angular:route route-name`
+
+* Generate a new service
+`yo angular:service service-name`

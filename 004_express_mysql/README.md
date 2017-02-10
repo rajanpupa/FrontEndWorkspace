@@ -11,6 +11,8 @@ This project just uses a yo generator to create a express mysql project. Not muc
  grunt
 ```
 
+* To run in debug mode in `Visual Studio Code`, goto ./.vscode/launch.json, and press `f5`
+
 
 ### References
 
