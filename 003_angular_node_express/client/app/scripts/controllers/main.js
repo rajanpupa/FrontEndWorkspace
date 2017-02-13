@@ -10,6 +10,7 @@
 angular.module('clientApp')
   .controller('MainCtrl', ['sampleService','$scope', function (sampleService,$scope) {
     var scope = this;
+    
     this.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
