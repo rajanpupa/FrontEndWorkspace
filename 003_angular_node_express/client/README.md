@@ -28,3 +28,13 @@ bower install
 
 * Generate a new service
 `yo angular:service service-name`
+
+* generate a new directive
+`yo angular:directive testDirective`
+`<test-directive></test-directive>`
+
+# Reference
+
+* Additional angular generator commands are available to generate angular components [here](https://github.com/yeoman/generator-angular#generators)
+
+* [directive not working](http://stackoverflow.com/questions/33377965/angular-directive-not-working-using-yeoman)
